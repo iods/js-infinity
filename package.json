@@ -1,0 +1,22 @@
+{
+  "name": "js-infinity",
+  "description": "Experimental crypto, NFT, and blockchain protocol implementations in JavaScript and TypeScript.",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Rye Miller",
+    "website": "https://ryemiller.io"
+  },
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "mine": "node src/infinity.js"
+  },
+  "main": "src/infinity.js",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  },
+  "devDependencies": {
+
+  }
+}
