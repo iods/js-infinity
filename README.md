@@ -22,8 +22,8 @@ Combines blockchain, NFT (non-fungible tokens), cryptography, and more into a si
 
 ### Requirements
 
-* [Node]()
-* [Yarn]()
+* [NodeJS](https://nodejs.org/en/)
+* [NPM](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/getting-started/install)
 * [Git](http://git-scm.com)
 
 
@@ -51,6 +51,12 @@ Block {
 }
 ```
 
+Development
+-----------
+
+WORK IN PROGRESS. 
+
+Smart Contracts are next and python clone of library.
 
 Developer
 ---------
